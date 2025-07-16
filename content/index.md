@@ -4,13 +4,13 @@ This is the main page displaying Markdown located at [content/index.md](https://
 
 Move to [about](/about) page.
 
-## Manage your Contents
-
 Create new pages or modify the existing ones in `content/` directory.
 
-## Query & Render Pages
+## Manage your Contents
 
 You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/nuxt/starter/blob/content/app/pages/%5B...slug%5D.vue)
+
+## `Query & Render Pages`
 
 ## Integrate Vue Component
 
